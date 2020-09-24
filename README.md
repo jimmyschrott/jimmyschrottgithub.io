@@ -1,2 +1,2 @@
-# jimmyschrottgithub.io
+# jimmyschrott.github.io
 MY REPO
